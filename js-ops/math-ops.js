@@ -4,3 +4,4 @@ const div = (num) => {
 }
 
 console.log(div(123));
+
