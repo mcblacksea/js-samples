@@ -23,3 +23,4 @@ class Secondary extends BaseClass{
 const sec = new Secondary();
 sec.ShowClassName();
 sec.ShowLayer();
+console.log(typeof sec);
